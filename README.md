@@ -1,7 +1,6 @@
 # Hangman Game - Python Implementation
 
-This repository contains a step-by-step development of the classic Hangman game in Python.
-It was created as part of a personal learning process to improve my Python skills by building a small, interactive game.
+This repository contains a step-by-step development of the classic Hangman game in Python. It was created as part of a personal learning process to improve my Python skills by building a small, interactive game.
 
 ## 📁 Contents
 
@@ -11,6 +10,7 @@ It was created as part of a personal learning process to improve my Python skill
 * **step\_4\_input\_validation.py** – adds error handling for invalid guesses
 * **step\_5\_input\_function.py** – wraps input validation into a reusable function with documentation
 * **step\_6\_guess\_validation.py** – checks guessed letters, updates guessed letters list, prints feedback if invalid
+* **step_7.1_show_hidden_word.py** – displays the current state of the secret word
 
 ## 🚧 Status
 
