@@ -12,7 +12,7 @@ This repository contains a step-by-step development of the classic Hangman game 
 * **step\_6\_guess\_validation.py** – checks guessed letters, updates guessed letters list, prints feedback if invalid
 * **step\_7.1\_show\_hidden_word.py** – displays the current state of the secret word
 * **step\_7.2\_show\_hidden\_word\_check\_win.py** – displays the current guessed state of the secret word and checks if the player has won
-
+* **step\_8\_print\_hangman.py** – saves ASCII art of hangman as a constant and prints hangman art based on number of tries
 
 ## 🚧 Status
 
